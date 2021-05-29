@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'grupo1app'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_4d0ec49e346640c59e4a9a440006b5e4 }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_e4d8a26a454740a08586dc0b8dde6f04 }}
